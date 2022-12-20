@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { MatDrawerToggleResult, MatSidenav } from '@angular/material/sidenav';
 
 @Component({
   selector: 'app-header',
