@@ -1,5 +1,5 @@
-###專案管理
-###甘特圖
+#專案管理
+##甘特圖
 ### Mermaid
 ```mermaid
 gantt
@@ -12,5 +12,5 @@ gantt
     Task in sec      :2014-01-12  , 12d
     anther task      : 24d
 ```
-###PERP/CPM 圖
-###關鍵路徑
+####PERP/CPM 圖
+####關鍵路徑
